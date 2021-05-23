@@ -1,0 +1,3 @@
+rootProject.name = "OrientatationVectorSensor"
+include ':app'
+include ':OrientationAidllibrary'
